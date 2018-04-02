@@ -11,7 +11,7 @@ department_name VARCHAR(30),
 price INTEGER,
 stock_quantity INTEGER,
 PRIMARY KEY(item_id)
-)
+);
 
 SELECT * FROM products;
 
